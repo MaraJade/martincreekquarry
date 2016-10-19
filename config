@@ -1,0 +1,5 @@
+site_title: Martin Creek Quarry
+url_include_index: no
+url_pattern: "/{category}/{slug}/{page}/index.html"
+slug_from_filename: True
+author: Megan Goossens
