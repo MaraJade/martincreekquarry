@@ -30,7 +30,7 @@ header h1 {
     bottom: -5px;
     right: 10px;
     font-size: 2em;
-    font-family: 'Carter One', sans-serif;
+    font-family: 'Inconsolata', sans-serif;
 }
 header h1 a {
     text-decoration: none;
@@ -47,12 +47,12 @@ header nav {
     position: absolute;
     left: 0px;
     bottom: 0px;
-    font-family: 'Carter One', sans-serif;
+    font-family: 'Inconsolata', sans-serif;
 }
 header nav a {
     text-decoration: none;
     font-size: 1.2em;
-    padding: 0 10px;
+    padding: 0 0.3em;
     margin-right: 5px;
     color: white;
     text-shadow: black 0px 0px 10px, black 0px 0px 10px, black 0px 0px 10px, black
@@ -95,7 +95,7 @@ a:hover {
     text-decoration: underline;
 }
 #content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
-    font-family: 'Carter One', sans-serif;
+    font-family: 'Inconsolata', sans-serif;
     font-weight: 100;
     color: white;
     margin: 5px 0 10px;
