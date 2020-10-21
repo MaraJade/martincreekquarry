@@ -8,8 +8,6 @@ Phone Numbers:
 
 Office: 541-942-1057
 
-Fax: 541-942-3767
-
 Locations:
 ++++++++++
 
@@ -24,9 +22,9 @@ Hawley Creek Quarry Inc:
 Mailing Address:
 ++++++++++++++++
 
-P.O. Box 1000
+P.O. Box 826
 
-Cottage Grove, OR 97424
+Drain, OR 97435
 
 `Employee only email`_
 

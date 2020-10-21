@@ -5,7 +5,7 @@ nav_sort: 4
 ---
 .
 
-**Fax rock applications to 541-942-3767 and/or email to missymullins1@gmail.com**
+**Email rock applications to ap@rundellinc.com**
 ----------------------------------------------------------------------------------
 
 
